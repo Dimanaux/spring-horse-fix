@@ -7,13 +7,13 @@ public class Cell {
     private final int x;
     private final int y;
 
-    public Cell(DijkstraHorseBoard dijkstraHorseBoard, int x, int y) {
+    Cell(DijkstraHorseBoard dijkstraHorseBoard, int x, int y) {
         this.dijkstraHorseBoard = dijkstraHorseBoard;
         this.x = x;
         this.y = y;
     }
 
-    public int marking() {
+    int marking() {
         return dijkstraHorseBoard.at(x, y);
     }
 
