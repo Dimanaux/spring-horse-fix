@@ -1,5 +1,4 @@
 # spring-horse-fix
-It may be a secret.
 
 Requerements:
 - Java 8 or later
