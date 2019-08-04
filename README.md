@@ -1,6 +1,6 @@
 # spring-horse-fix
 
-Requerements:
+Requirements:
 - Java 8 or later
 - Maven 3.3 or later
 
